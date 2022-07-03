@@ -8,6 +8,9 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+
+jika port nya masih 8080, run menggunakan :
+npm run serve -- --port 3000
 ```
 
 ### Compiles and minifies for production
